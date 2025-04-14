@@ -1,0 +1,26 @@
+﻿  Building 'guidedHacking' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\guidedHacking.inf
+  Stamping [Version] section with DriverVer=04/14/2025,14.55.56.15
+  communication.c
+  events.c
+  guidedhacking.c
+  Generating Code...
+  guidedHacking.vcxproj -> C:\Users\ronen\source\repos\guidedHacking\x64\Release\guidedHacking.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ronen\source\repos\guidedHacking\x64\Release\guidedHacking.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ronen\source\repos\guidedHacking\x64\Release\guidedHacking\guidedhacking.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ronen\source\repos\guidedHacking\x64\Release\guidedHacking\guidedhacking.cat
+  

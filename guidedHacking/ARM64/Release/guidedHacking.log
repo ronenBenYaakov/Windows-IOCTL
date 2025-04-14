@@ -1,0 +1,7 @@
+﻿  Building 'guidedHacking' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping ARM64\Release\guidedHacking.inf
+  Stamping [Version] section with DriverVer=04/13/2025,20.47.43.613
+cl : command line  warning D9024: unrecognized source file type 'messages.h', object file assumed
+cl : command line  warning D9027: source file 'messages.h' ignored
+  guidedhacking.c
+LINK : fatal error LNK1181: cannot open input file 'ARM64\Release\messages.obj'
