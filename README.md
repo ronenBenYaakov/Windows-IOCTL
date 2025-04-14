@@ -1,4 +1,4 @@
-# 🧠 Windows IOCTL Kernel Driver – Guided Hacking Edition
+# 🧠 Windows IOCTL Kernel Driver
 
 This project is a Windows kernel-mode driver demonstrating IOCTL communication, image load notifications, and secure device creation. Built for educational purposes and inspired by Guided Hacking practices.
 
